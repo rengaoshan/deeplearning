@@ -3,18 +3,11 @@
     "author": "sam",
     "plugins": [
     "toggle-chapters",
-    "tbfed-pagefooter",
     "sectionx",
     "splitter",
-    "expandable-chapters-small",
-    "tbfed-pagefooter"
+    "expandable-chapters-small"
     ],
     "pluginsConfig": {
-    "tbfed-pagefooter": {
-    "copyright":"Copyright &copy sam",
-    "modify_label": "修订时间:",
-    "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
     "sharing": {
     "weibo": false,
     "facebook": false,
