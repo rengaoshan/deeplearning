@@ -1,0 +1,26 @@
+# _数据读取_,神经网络
+
+```
+说明TensorFlow文件读取的流程
+应用tf.train.string_input_producer实现文件队列构造
+应用文件读取器实现文件数据获取
+应用文件内容解码器实现文件数据解码
+说明图片数字化的三要素
+说明图片三要素与张量的表示关系
+了解张量的存储和计算类型
+应用tf.image.resize_images实现图像的像素改变
+应用TensorFlow实现文件读取
+说明Example的结构
+应用TFRecordWriter实现TFRecords文件存储器的构造
+应用parse_single_example实现解析Example结构
+了解深度学习与机器学习的区别
+了解感知机结构、作用以及优缺点
+了解tensorflow playground的使用
+说明感知机与神经网络的联系
+说明神经网络的组成结构
+说明神经网络的分类原理
+应用softmax_cross_entropy_with_logits实现softamx以及交叉熵损失计算
+说明全连接层在神经网络的作用
+应用全连接神经网络实现图像识别
+```
+
